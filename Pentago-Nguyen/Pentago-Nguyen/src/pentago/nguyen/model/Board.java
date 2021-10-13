@@ -143,7 +143,6 @@ class Board {
                 winner = diagonalInverseAtLeft(0, column, player1, player2, winner);
             } else {
                 winner = diagonalInverseAtLeft(copiedBoard.length - lengthBoardMinusOne, lengthBoardMinusOne, player1, player2, winner);
-                System.out.println(copiedBoard.length);
             }
         }
         return winner;
