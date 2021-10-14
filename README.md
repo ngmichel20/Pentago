@@ -1,4 +1,1 @@
-# Diamond
-# Diamand
-# Diamond
 # Pentago
